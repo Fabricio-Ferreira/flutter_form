@@ -142,7 +142,7 @@ class _LoginPageState extends State<LoginPage> {
                       height: 45,
                       child: RaisedButton(
                         onPressed: () { _limparCampos(); },
-                        child: Text('CANCELAR',
+                        child: Text('VOLTAR',
                           style: TextStyle(color: Colors.deepPurple),
                         ),
                         color: Colors.white,
